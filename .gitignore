@@ -3,4 +3,4 @@
 
 # Pero NO ignores estas carpetas y archivos
 !.gitignore
-!script_ayuda.py
+!script_tp2.py
